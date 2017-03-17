@@ -11,7 +11,7 @@ An array with dates. Format 'little endian' **DD / MM / YY**.
 
 An array with dates sorted in ascending order :smirk:. Format 'little endian' **DD / MM / YY**.
 
-### Exemple
+### Example
 
 ``` js
 <script>
